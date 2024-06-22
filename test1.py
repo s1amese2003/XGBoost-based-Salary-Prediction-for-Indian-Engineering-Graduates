@@ -1,4 +1,3 @@
-# 加载数据并进行预处理
 import pandas as pd
 from datetime import datetime
 from sklearn.preprocessing import StandardScaler
