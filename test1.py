@@ -54,3 +54,4 @@ y_pred = best_xgb.predict(X_test)
 test_r2_score = r2_score(y_test, y_pred)
 
 print("测试集R2分数:", test_r2_score)
+
